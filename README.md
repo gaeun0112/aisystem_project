@@ -31,7 +31,9 @@
 
 ### 2. BERT
 * Install Torch `2.3.0`
-'''
+```
 pip install -r requirments.txt
+```
+```
 python  run_bert.py --dataset_name cola --num_epochs 1 --wandb_api_key [YOUR WANDB ACCESS TOKEN]
-'''
+```

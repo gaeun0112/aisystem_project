@@ -1,0 +1,4 @@
+datasets==2.19.2
+transformers==4.41.2
+wandb==0.17.1
+fairscale==0.4.13

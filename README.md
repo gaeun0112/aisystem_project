@@ -2,6 +2,8 @@
 
 
 ## 📝Report
+* 🖼️presentation file : https://github.com/gaeun0112/aisystem_project/blob/main/presentation.pdf
+* 🌱overleaf report : https://github.com/gaeun0112/aisystem_project/blob/main/overleaf_report.pdf
 
 
 ## 👥Members
@@ -13,7 +15,7 @@
 | BERT 코드 작성 및 실험<br/> & github 정리| CNN 코드 작성 및 실험 <br/> & Overleaf 작성 | ALU unit 코드 작성 및 실험 | Resnet50 코드 작성 및 실험 |
 
 
-## <제목>
+## An In-depth Study of Activation Functions
 > "딥러닝 모델 task에 따른 최적의 활성화 함수 일반화 가능 여부 연구"
 
 
